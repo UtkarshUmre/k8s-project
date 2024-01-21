@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>project for learning kubernetes</p>
+        <p>kubernetes project V3</p>
         <a
           className="App-link"
           href="https://reactjs.org"
